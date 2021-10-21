@@ -1,25 +1,25 @@
 {
-    "name": "burger-management-mvc",
-    "version": "1.0.0",
-    "description": "A Burger Logger",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/Knoxy14/Project-2-MVC"
-    },
-    "author": "dhens",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Knoxy14/Project-2-MVC"
-    },
-    "homepage": "https://github.com/Knoxy14/Project-2-MVC",
-    "dependencies": {
-      "express": "^4.17.1",
-      "express-handlebars": "^3.1.0",
-      "mysql": "^2.18.1"
-    },
-    "devDependencies": {}
-  }
+  "name": "burger-management-mvc",
+  "version": "1.0.0",
+  "description": "A Burger Logger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Knoxy14/Project-2-MVC"
+  },
+  "author": "dhens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knoxy14/Project-2-MVC"
+  },
+  "homepage": "https://github.com/Knoxy14/Project-2-MVC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
